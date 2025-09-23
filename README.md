@@ -1,18 +1,17 @@
 # Project-Lumiere
 
 **project name**-------
+
 Lumiere
 
 **desc**-----
+
 Smart Streetlight failure reporting system.
 
 -**What my invention does: 252**
 
-
 LUMIERE is a small electronic device, connected to the internet (IoT) and placed under a streetlamp, that notifies the local authorities about regions that need attention and immediate intervention.
 
-
- 
 ----------------------
 
 -**Where I got my inspiration: 628**
@@ -20,7 +19,6 @@ LUMIERE is a small electronic device, connected to the internet (IoT) and placed
 As I grew up, I've always noticed the issues we kept having when it comes to electricity. One of them being streetlights, always suffering damages, and no one coming to fix them. We would notice at night and forget to report during daytime. Due to other chores on our day-to-day life.
 
 Taking the risk and all the negative effect this could have on our society, I decided to think of a way to automate the reporting to the local authorities. And that is when I came up with Project Lumiere.
-
 
 ----------------------------
 
@@ -59,11 +57,9 @@ In a world like ours, light is indispensable in our day-to-day life. Projects li
 
 And in the future, the project could be improved and fully automated. To a level which robots perform all the necessary tasks necessary to get ahead of local issues, regarding lifestyle. Such as, changing the lamp during daytime, without human intervention. 
 
-
-
 ---------------
 image1----------
-
+![]("images/logo2_horizontal2.png")
 Main Logo
 
 
