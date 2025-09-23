@@ -59,7 +59,7 @@ And in the future, the project could be improved and fully automated. To a level
 
 ---------------
 image1----------
-![]("images/logo2_horizontal2.png")
+![](images/logo2_horizontal2.png)
 Main Logo
 
 
