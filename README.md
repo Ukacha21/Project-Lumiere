@@ -62,19 +62,20 @@ image1----------
 ![](images/logo2_horizontal2.png)
 Main Logo
 
-
---
-
 Image 2-------
+![](images/main_schematic.png)
 Schematics. Made with adobe illustrator. After Proteus Circuit Design failed to launch
 
 image 3----------
+![](images/initial_testing.jpg)
 Initial Testing. Usage of jumper wires and breadboard.
 
 image4------BOX
+![](images/testing_initial_prototype.jpg)
 First Case prototype. Made out of Cartoon. Compact, Lightweight and easily portable.
 
 image 5--------
+![](images/Serial_retrieval.png)
 Serial Data Retrieval and performance monitoring on Arduino IDE. It's part of the testing process.
 
 
