@@ -63,7 +63,7 @@ image1----------
 Main Logo
 
 Image 2-------
-![](images/main schematic.png)
+![](images/main_schematic.png)
 Schematics. Made with adobe illustrator. After Proteus Circuit Design failed to launch
 
 image 3----------
