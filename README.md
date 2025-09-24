@@ -7,7 +7,6 @@ Lumiere
 **desc**-----
 
 Smart Streetlight failure reporting system.
-
 -**What my invention does: 252**
 
 LUMIERE is a small electronic device, connected to the internet (IoT) and placed under a streetlamp, that notifies the local authorities about regions that need attention and immediate intervention.
